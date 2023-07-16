@@ -5450,3 +5450,27 @@ INFO:root:log my final result [{'Product': 'iphone12pro', 'Name': 'Vinit Kar', '
 INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 19:09:37] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 19:09:37] "[33mGET /style.css HTTP/1.1[0m" 404 -
 INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 19:09:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.14:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [15/Jul/2023 18:12:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [15/Jul/2023 18:12:39] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [15/Jul/2023 18:12:39] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'realme11pro', 'Name': 'Alamdaar Husain siddiki', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Good product 👍👍👍'}, {'Product': 'realme11pro', 'Name': 'sai kiran', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Super phone go for it'}, {'Product': 'realme11pro', 'Name': 'Bhanu Verma', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'so nice in all functions and more in design and colour..'}, {'Product': 'realme11pro', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Beautiful phone from realme'}, {'Product': 'realme11pro', 'Name': 'Karitk Bhadra', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Good phone I like u 😊'}, {'Product': 'realme11pro', 'Name': 'Nitish  Kumar ', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': "That's really outstanding camera"}, {'Product': 'realme11pro', 'Name': 'Gautam R', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Worth for moneyGreat DisplaySmooth performance'}, {'Product': 'realme11pro', 'Name': 'Suraj Singh  Rajput', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Best Phone 📱 It,s Very Smooth Design Battery 🔋 is Biggest  Phone Design Perfect'}, {'Product': 'realme11pro', 'Name': 'Pathan Ahmad', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Good nice product I love it'}, {'Product': 'realme11pro', 'Name': 'Raamesh Bhatia', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'This smartphone is awesome.Camera quality is perfect battery is also awesome. Design is premium feel.'}, {'Product': 'realme11pro', 'Name': 'Raamesh Bhatia', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'This smartphone is awesome.Camera quality is perfect battery is also awesome. Design is premium feel.'}]
+INFO:werkzeug:172.18.0.2 - - [15/Jul/2023 18:12:53] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [15/Jul/2023 18:12:53] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [15/Jul/2023 18:12:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'realme11proplus', 'Name': 'Alamdaar Husain siddiki', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Good product 👍👍👍'}, {'Product': 'realme11proplus', 'Name': 'sai kiran', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Super phone go for it'}, {'Product': 'realme11proplus', 'Name': 'Bhanu Verma', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'so nice in all functions and more in design and colour..'}, {'Product': 'realme11proplus', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Beautiful phone from realme'}, {'Product': 'realme11proplus', 'Name': 'Karitk Bhadra', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Good phone I like u 😊'}, {'Product': 'realme11proplus', 'Name': 'Nitish  Kumar ', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': "That's really outstanding camera"}, {'Product': 'realme11proplus', 'Name': 'Gautam R', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Worth for moneyGreat DisplaySmooth performance'}, {'Product': 'realme11proplus', 'Name': 'Suraj Singh  Rajput', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Best Phone 📱 It,s Very Smooth Design Battery 🔋 is Biggest  Phone Design Perfect'}, {'Product': 'realme11proplus', 'Name': 'Pathan Ahmad', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Good nice product I love it'}, {'Product': 'realme11proplus', 'Name': 'Raamesh Bhatia', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'This smartphone is awesome.Camera quality is perfect battery is also awesome. Design is premium feel.'}, {'Product': 'realme11proplus', 'Name': 'Raamesh Bhatia', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'This smartphone is awesome.Camera quality is perfect battery is also awesome. Design is premium feel.'}]
+INFO:werkzeug:172.18.0.2 - - [15/Jul/2023 18:14:03] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [15/Jul/2023 18:14:03] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [15/Jul/2023 18:14:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
